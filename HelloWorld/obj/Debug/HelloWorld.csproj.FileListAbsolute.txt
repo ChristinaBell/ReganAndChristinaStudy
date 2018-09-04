@@ -1,0 +1,7 @@
+C:\Users\regan\Google Drive\Coding Projects\CSharp\Tutorials\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\regan\Google Drive\Coding Projects\CSharp\Tutorials\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\regan\Google Drive\Coding Projects\CSharp\Tutorials\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\regan\Google Drive\Coding Projects\CSharp\Tutorials\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\regan\Google Drive\Coding Projects\CSharp\Tutorials\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\regan\Google Drive\Coding Projects\CSharp\Tutorials\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\regan\Google Drive\Coding Projects\CSharp\Tutorials\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
